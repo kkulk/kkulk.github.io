@@ -11,3 +11,7 @@ I also like reading/writing about technology companies, history, and culture, es
 ### Contact me
 
 [ksk@eecs.berkeley.edu](mailto:eecs.berkeley.edu)
+
+#### Acknowledgements
+
+The image of the Hopf fibration on my blog is from London Tsai. Support his work [here](https://www.londontsai.com/). 

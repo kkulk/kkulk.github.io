@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am a second year Ph.D. student in the EECS Department at Berkeley, interested in control, learning, microeconomic theory, and all that we can do to make large-scale AI systems work better with humans. 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I also like reading/writing about technology companies, history, and culture, especially the history of science. 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[ksk@eecs.berkeley.edu](mailto:eecs.berkeley.edu)

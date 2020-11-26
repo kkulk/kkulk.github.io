@@ -8,3 +8,11 @@ In this file I'll be testing out some $$\LaTeX$$ commands for this blog:
 $$f(x) = \frac{1}{x}$$
 
 $$ \begin{align} f(x) = \ln(x) \\ g(x) = \frac{\sin(x)}{\cos(x)} \end{align} $$
+
+$\require{\AMScd}$
+
+$$\begin{CD}
+A @<<< B @>>> C\\
+@. @| @AAA\\
+@. D @= E
+\end{CD}$$

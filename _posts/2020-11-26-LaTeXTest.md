@@ -9,7 +9,7 @@ $$f(x) = \frac{1}{x}$$
 
 $$ \begin{align} f(x) = \ln(x) \\ g(x) = \frac{\sin(x)}{\cos(x)} \end{align} $$
 
-$\require{\AMScd}$
+$$\require{\AMScd}$$
 
 $$\begin{CD}
 A @<<< B @>>> C\\

@@ -3,6 +3,8 @@ layout: post
 title: Differentiation on Euclidean Spaces 
 ---
 
+### This post is based on Jerry Folland's text "Real Analysis", and lectures by Prof. Alan Hammond at UC Berkeley. 
+
 Differentiation and integration are natural operations that serve as the 'inverse' of each other, in the sense made precise by the fundamental theorem of calculus. The standard (Riemann) theory tells us the following: 
 
 $$\begin{equation}

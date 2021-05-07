@@ -17,5 +17,4 @@ The circle $$\mathbb{S}^1$$ acts on the sphere in the following way. We have tha
 
 $$ \lambda \cdot (z_1, \dots, z_{n+1}) = (\lambda z_1, \dots, \lambda z_n)$$
 
-The orbits of this action are $$ \{ ( \lambda z_1, \dots, \lambda z_{n+1}) | \lambda \in S^1 \} $$ for any $$(z_1, \dots, z_{n+1} ) \in \mathbb{S}^{2n+1}$$ and the orbit space is: 
-
+The orbits of this action are $$ \{ ( \lambda z_1, \dots, \lambda z_{n+1}) | \lambda \in S^1 \} $$ 

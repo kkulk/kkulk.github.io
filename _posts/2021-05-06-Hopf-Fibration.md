@@ -29,7 +29,7 @@ $$\begin{align}
 
 Here is a visualization of the situation:
 
-![Hopf fibration](/images/hopf1.jpf)
+![Hopf fibration](https://github.com/kkulk/kkulk.github.io/blob/master/images/hopf1.jpg)
 
 
 This is remarkable! The action of the circle on the $$2n+1$$-dimensional sphere splits the sphere into complex projective spaces of $$n$$-dimension. Further, we can check that the map: 

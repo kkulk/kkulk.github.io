@@ -17,16 +17,5 @@ The circle $$\mathbb{S}^1$$ acts on the sphere in the following way. We have tha
 
 $$ \lambda \cdot (z_1, \dots, z_{n+1}) = (\lambda z_1, \dots, \lambda z_n)$$
 
-The orbits of this action are $$ \{(\lambda z_1, \dots, \lambda z_{n+1}) | \lambda \in S^1 \}$$ for any $$(z_1, \dots, z_{n+1} ) \in \mathbb{S}^{2n+1}$$ and the orbit space is: 
+The orbits of this action are $$ \{ ( \lambda z_1, \dots, \lambda z_{n+1}) | \lambda \in S^1 \} $$ for any $$(z_1, \dots, z_{n+1} ) \in \mathbb{S}^{2n+1}$$ and the orbit space is: 
 
-$$\begin{align}
-\mathbb{S}^1 \ \mathbb{S}^{2n+1} = \{ \[z_1 , \dots, z_n \] \} = \mathbb{C} P ^n
-\end{align}$$
-
-This is remarkable! The action of the circle on the $$2n+1$$-dimensional sphere splits the sphere into complex projective spaces of $$n$$-dimension. Further, we can check that the map: 
-
-$$\begin{align}
-\pi: \mathbb{S}^{2n+1} \rightarrow \mathbb{C} P^n \\ 
-\pi(z_1, \dots, z_{n+1})  = \[z_1, \dots, z_{n+1} \]
-\end{align}$$
-is a submersion. 

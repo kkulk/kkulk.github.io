@@ -15,6 +15,8 @@ $$\begin{align} \{(z_1, \dots, z_{n+1} ) \in \mathbb{C}^{n+1} | |z_1|^2 + \dots 
 
 The circle $$\mathbb{S}^1$$ acts on the sphere in the following way. We have that $$\mathbb{S}^1 \acts \mathbb{S}^{2n+1}$$ as: 
 
-$$ \lambda \cdot (z_1, \dots, z_{n+1}) = (\lambda z_1, \dots, \lambda z_n)$$
+$$ \begin{align}
+\lambda \cdot (z_1, \dots, z_{n+1}) = (\lambda z_1, \dots, \lambda z_n)
+\end{align} $$
 
-The orbits of this action are $$ \{ ( \lambda z_1, \dots, \lambda z_{n+1}) | \lambda \in S^1 \} $$ 
+The orbits of this action are $$ \{ ( \lambda z_1, \dots, \lambda z_{n+1}) : \lambda \in S^1 \} $$ 

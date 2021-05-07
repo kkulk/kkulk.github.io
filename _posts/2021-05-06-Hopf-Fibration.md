@@ -45,7 +45,7 @@ $$\begin{align}
 and we can see that we can view the derivative of $$\phi_{\lambda}$$ as a velocity vector: 
 
 $$\begin{align}
-\frac{d}{dt} \phi_{e^{it}} (z_1, \dots, z_{n+1} )$$ = (i e^{it} z_1, \dots, i e^{it} z_{n+1} ) = i \phi_{e^{it}} (z_1,\dots, z_{n+1}) 
+\frac{d}{dt} \phi_{e^{it}} (z_1, \dots, z_{n+1} ) = (i e^{it} z_1, \dots, i e^{it} z_{n+1} ) = i \phi_{e^{it}} (z_1,\dots, z_{n+1}) 
 \end{align}$$
 
 Further, we see that $$i \phi_{e^{it}} (\bar{z})$$ and $$\phi_{e^{it}} (\bar{z})$$ are orthogonal, and thus $$i \phi_{e^{it}} (\bar{z}) \in T_{\phi_{e^{it}}(\bar{z})}\mathbb{S}^{2n+1}$$, the tangent space to the sphere at the point $$\phi_{e^{it}}(\bar{z}).

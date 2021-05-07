@@ -33,3 +33,19 @@ $$\begin{align}
 \end{align}$$
 
 is a submersion. 
+
+We can also take another perspective: that of vector fields. For any $$\lambda \in \mathbb{S}^1$$, we can define the map $$\phi_{\lambda} : \mathbb{S}^{2n+1} \rightarrow \mathbb{S}^{2n+1}$$ that takes $$\phi_{\lambda}(z_1,\dots, z_{n+1} ) = (\lambda z_1, \dots,\lambda z_{n+1} )$$. However, this can simply be seen as the restriction of the following diagonal matrix: 
+
+$$\begin{align}
+\begin{bmatrix}
+\lambda & 0 & \dots & 0 \\ 0 & \lambda & \dots & 0 \\ \dots & \dots & \dots \\ 0 & 0 & \dots & \lamdda 
+\end{bmatrix} \in U(n+1)
+\end{align}$$
+
+and we can see that we can view the derivative of $$\phi_{\lambda}$$ as a velocity vector: 
+
+$$\begin{align}
+\frac{d}{dt} \phi_{e^{it}} (z_1, \dots, z_{n+1} )$$ = (i e^{it} z_1, \dots, i e^{it} z_{n+1} ) = i \phi_{e^{it}} (z_1,\dots, z_{n+1}) 
+\end{align}$$
+
+Further, we see that $$i \phi_{e^{it}} (\bar{z})$$ and $$\phi_{e^{it}} (\bar{z})$$ are orthogonal, and thus $$i \phi_{e^{it}} (\bar{z}) \in T_{\phi_{e^{it}}(\bar{z})}\mathbb{S}^{2n+1}$$, the tangent space to the sphere at the point $$\phi_{e^{it}}(\bar{z}).

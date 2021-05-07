@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: Kshitij Kulkarni
+name: K Kulkarni
 
 # Short bio or description (displayed in the header)
-description: Ph.D. student at UC Berkeley EECS
+description: Ph.D. student at UC Berkeley
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://s3.amazonaws.com/images.icompendium.com/sites/lond1947/fl/679335_14-Tsai-Hopf-Fibration-39x53in.jpg?a99049ef0da206d4806201cb5d346d21
@@ -26,7 +26,7 @@ footer-links:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: kkulk1
+  twitter:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/

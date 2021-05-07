@@ -38,7 +38,7 @@ We can also take another perspective: that of vector fields. For any $$\lambda \
 
 $$\begin{align}
 \begin{bmatrix}
-\lambda & 0 & \dots & 0 \\ 0 & \lambda & \dots & 0 \\ \dots & \dots & \dots \\ 0 & 0 & \dots & \lamdda 
+\lambda & 0 & \dots & 0 \\ 0 & \lambda & \dots & 0 \\ \dots & \dots & \dots \\ 0 & 0 & \dots & \lambda 
 \end{bmatrix} \in U(n+1)
 \end{align}$$
 

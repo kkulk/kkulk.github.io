@@ -48,4 +48,18 @@ $$\begin{align}
 \frac{d}{dt} \phi_{e^{it}} (z_1, \dots, z_{n+1} ) = (i e^{it} z_1, \dots, i e^{it} z_{n+1} ) = i \phi_{e^{it}} (z_1,\dots, z_{n+1}) 
 \end{align}$$
 
-Further, we see that $$i \phi_{e^{it}} (\bar{z})$$ and $$\phi_{e^{it}} (\bar{z})$$ are orthogonal, and thus $$i \phi_{e^{it}} (\bar{z}) \in T_{\phi_{e^{it}}(\bar{z})}\mathbb{S}^{2n+1}$$, the tangent space to the sphere at the point $$\phi_{e^{it}}(\bar{z}).
+Further, we see that $$i \phi_{e^{it}} (\bar{z})$$ and $$\phi_{e^{it}} (\vec{z})$$ are orthogonal, and thus $$i \phi_{e^{it}} (\vec{z}) \in T_{\phi_{e^{it}}(\vec{z})}\mathbb{S}^{2n+1}$$, the tangent space to the sphere at the point $$\phi_{e^{it}}(\bar{z})$$.
+
+Further, we can view $$X_{\vec{z}} = i \vec{z}$$ can be viewed as a vector field on $$\mathbb{S}^{2n+1}$$ and therefore: 
+
+$$\begin{align}
+\frac{d}{dt} \phi_{e^{it}} (\vec{z}) = X_{\phi_{e^{it}}(\vec{z})}
+\end{align}$$
+
+which lets us compute $$\theta_{t}(\vec{z}) = \phi_{e^{it}} (\vec{z})$$, the flow of the vector field $$X$$. 
+
+We can now consider the $$3$$-dimensional example (i.e. $$n = 1$$), and we see that $$\mathbb{S}^1 \acts \mathbb{S}^{3}$$, and thus we have:
+
+$$\begin{align}
+\pi : \mathbb{S}^3 \rightarrow \mathbb{C} P^1 \cong S^2 
+\end{align}$$

@@ -31,4 +31,5 @@ $$\begin{align}
 \pi: \mathbb{S}^{2n+1} \rightarrow \mathbb{C} P^n \\ 
 \pi(z_1, \dots, z_{n+1})  = [z_1, \dots, z_{n+1} ]
 \end{align}$$
+
 is a submersion. 

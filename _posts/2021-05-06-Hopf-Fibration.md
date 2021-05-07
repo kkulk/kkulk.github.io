@@ -3,9 +3,11 @@ layout: post
 title: The Hopf Fibration
 ---
 
-$$  \def\acts{\curvearrowright}$$
+
 
 ### This post is based on John Lee's "Introduction to Smooth Manifolds" and lectures by Prof. Richard Bamler at UC Berkeley. 
+
+$$  \def\acts{\curvearrowright}$$
 
 The action of the circle $$\mathbb{S}^1$$ on the higher dimensional sphere $$\mathbb{S}^{2n+1}$$ is one of the most profound objects in differential geometry. We study the consequences of this action here.
 
@@ -24,6 +26,11 @@ The orbits of this action are $$ \{ ( \lambda z_1, \dots, \lambda z_{n+1}) : \la
 $$\begin{align}
 \mathbb{S}^1 \backslash \mathbb{S}^{2n+1} = \{ [z_1 , \dots, z_n ] \} = \mathbb{C} P^n
 \end{align}$$
+
+Here is a visualization of the situation:
+
+![Hopf fibration](/images/hopf1.jpf)
+
 
 This is remarkable! The action of the circle on the $$2n+1$$-dimensional sphere splits the sphere into complex projective spaces of $$n$$-dimension. Further, we can check that the map: 
 
